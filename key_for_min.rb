@@ -8,5 +8,6 @@ name_hash.collect do |kids_name, age|
   arr=age
 end
 puts arr
+
 binding.pry
 end
