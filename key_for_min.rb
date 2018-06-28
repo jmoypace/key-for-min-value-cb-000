@@ -24,5 +24,7 @@ holder=newarr.index(lowest)
 newarrnames[holder]
 
 
-
+if name_hash=={}
+  return nil
+end
 end
