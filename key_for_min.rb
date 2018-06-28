@@ -25,3 +25,4 @@ newarrnames[holder]
 if name_hash==nil
 return nil
 end
+end
