@@ -7,7 +7,8 @@ arr=nil
 name_hash.collect do |kids_name, age|
   arr=age
 end
+binding.pry
 puts arr
 
-binding.pry
+
 end
