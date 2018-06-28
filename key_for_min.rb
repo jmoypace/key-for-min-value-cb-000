@@ -22,7 +22,6 @@ end
 
 holder=newarr.index(lowest)
 newarrnames[holder]
-
+if name_hash==nil
+return nil
 end
-hash = {:blake => 500, :ashley => 2, :adam => 1}
-key_for_min_value(hash)
