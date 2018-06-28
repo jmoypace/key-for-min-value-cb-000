@@ -15,11 +15,14 @@ end
 if
 newarr[1]>newarr[2]
 lowest=newarr[2]
-
-else
+end
+if(newarr[0]<newarr[2])
 lowest=newarr[0]
 end
+
 holder=newarr.index(lowest)
 newarrnames[holder]
 
 end
+hash = {:blake => 500, :ashley => 2, :adam => 1}
+key_for_min_value(hash)
