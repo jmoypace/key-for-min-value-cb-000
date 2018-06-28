@@ -8,7 +8,7 @@ name_hash.collect do |kids_name, age|
   arr=age
 end
 
-name_hash[arr]
+name_hash[1]
 
 
 end
