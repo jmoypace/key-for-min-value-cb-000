@@ -7,12 +7,12 @@ name_hash.collect do |kids_name, age|
   ages=age
 end
 
-if(age[0]>age[1])
-  lowest=age[1]
-elsif (age[1]>age[2])
-  lowest=age[2]
+if(ages[0]>ages[1])
+  lowest=ages[1]
+elsif (ages[1]>ages[2])
+  lowest=ages[2]
 else
-  lowest=age[0]
+  lowest=ages[0]
 end
 
 name_hash[lowest]
