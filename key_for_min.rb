@@ -10,5 +10,5 @@ ages=age
     ages=age
 end
 end
-ages
+kids_name[ages]
 end
