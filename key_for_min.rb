@@ -8,7 +8,7 @@ name_hash.each do |kids_name, age|
 ages.push(age)
   elsif ages < age
     ages=age
-
+end
 end
 ages
 end
