@@ -3,12 +3,12 @@
 
 
 def key_for_min_value(name_hash)
-arr=nil
+
 name_hash.collect do |kids_name, age|
-  arr=age
+age  
 end
 
-name_hash[1]
+
 
 
 end
