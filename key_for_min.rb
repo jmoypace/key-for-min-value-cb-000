@@ -22,7 +22,6 @@ end
 
 holder=newarr.index(lowest)
 newarrnames[holder]
-if name_hash==nil
-return nil
+
 end
 end
