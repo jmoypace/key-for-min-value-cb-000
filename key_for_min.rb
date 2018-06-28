@@ -10,5 +10,5 @@ ages=age
     ages=age
 end
 end
-kids_name[ages]
+name_hash[ages]
 end
