@@ -10,5 +10,5 @@ ages=age
     ages=age
 end
 end
-name_hash[ages]
+puts name_hash[ages]
 end
