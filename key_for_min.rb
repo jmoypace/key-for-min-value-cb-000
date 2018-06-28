@@ -6,6 +6,6 @@ arr=nil
 name_hash.collect do |kids_name, age|
   arr=age
 end
-
+puts arr
 
 end
