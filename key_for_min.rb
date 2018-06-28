@@ -23,6 +23,6 @@ end
 holder=newarr.index(lowest)
 newarrnames[holder]
 
-return name_hash
+
 
 end
