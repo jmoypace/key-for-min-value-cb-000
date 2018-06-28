@@ -25,6 +25,6 @@ newarrnames[holder]
 
 
 if name_hash=={}
-  return nil
+  return
 end
 end
